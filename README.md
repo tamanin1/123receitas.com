@@ -1,8 +1,8 @@
 # 123receitas.com
 
 ## 🌍 Language / Idioma  
-- [🇧🇷 Português](#-projeto)  
-- [🇺🇸 English](#-project)
+- [🇧🇷 Português](#-escopo-do-projeto)  
+- [🇺🇸 English](#-project-scope)
 
 ---
 
