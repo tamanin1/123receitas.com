@@ -1,8 +1,8 @@
 # 123receitas.com
 
 ## 🌍 Language / Idioma  
-- [🇧🇷 Português](#-escopo-do-projeto)  
-- [🇺🇸 English](#-project-scope)
+- ![Brasil](https://twemoji.maxcdn.com/v/latest/72x72/1f1e7-1f1f7.png) [Português](#-escopo-do-projeto)  
+- ![EUA](https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1f8.png) [English](#-project-scope)
 
 ---
 
